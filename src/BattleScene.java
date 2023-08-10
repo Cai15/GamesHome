@@ -1,7 +1,3 @@
-import java.io.IOException;
-
-
-
 public class BattleScene {
 
     public void fight(FantasyCharacter hero, FantasyCharacter monster, Realm.FightCallback fightCallback) {
