@@ -27,7 +27,7 @@ public abstract class FantasyCharacter implements Fighter{
     public String getName() {
         return name;
     }
-    //Геттеры и сеттеры
+
     public void setName(String name) {
         this.name = name;
     }
@@ -70,9 +70,9 @@ public abstract class FantasyCharacter implements Fighter{
         return String.format("%s здоровье:%d", name, healthPoints);
     }
     static FantasyCharacter createMonster() {
-        //Рандомайзер
+
         int random = (int) (Math.random() * 10);
-        //С вероятностью 50% создается или скелет, или гоблин
+
         if (random % 2 == 0) return new Goblin(
                 "Гоблин",
                 50,

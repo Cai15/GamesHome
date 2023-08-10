@@ -8,7 +8,6 @@ public class Merchant implements Seller {
         }
         return result;
     }
-    //Энам для товаров
     public enum Goods {
         POTION
     }
