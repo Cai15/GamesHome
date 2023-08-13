@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebd41eb-6fbf-4390-8489-4557c3b999e1" name="Changes" comment="что не так?????!">
-      <change afterPath="$PROJECT_DIR$/src/FightCallback.java" afterDir="false" />
+    <list default="true" id="1ebd41eb-6fbf-4390-8489-4557c3b999e1" name="Changes" comment="Ошибка в maim...строка 17">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BattleScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BattleScene.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FantasyCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FantasyCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FightCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FightCallback.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Merchant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Merchant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Realm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Realm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,13 +20,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -46,6 +46,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="GamesHome" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,7 +93,23 @@
       <option name="project" value="LOCAL" />
       <updated>1691613260954</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ошибка в maim...строка 17">
+      <option name="closed" value="true" />
+      <created>1691693275241</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691693275241</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ошибка в maim...строка 17">
+      <option name="closed" value="true" />
+      <created>1691693621033</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691693621033</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +133,7 @@
     <MESSAGE value="ada" />
     <MESSAGE value="пробка" />
     <MESSAGE value="что не так?????!" />
-    <option name="LAST_COMMIT_MESSAGE" value="что не так?????!" />
+    <MESSAGE value="Ошибка в maim...строка 17" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ошибка в maim...строка 17" />
   </component>
 </project>

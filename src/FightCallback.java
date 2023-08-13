@@ -1,4 +1,9 @@
+import java.io.BufferedReader;
+
+
 public interface FightCallback {
-    void fightWin();
-    void fightLost();
-}
+        void fightLost();
+
+        void fightWin();
+    }
+
